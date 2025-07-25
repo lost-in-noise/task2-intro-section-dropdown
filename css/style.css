@@ -1,0 +1,9 @@
+body {
+  font-family: "Epilogue", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  background-color: hsl(0, 0%, 98%);
+  color: hsl(0, 0%, 41%);
+  font-size: 18px;
+}
